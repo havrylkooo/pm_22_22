@@ -1,0 +1,30 @@
+$primary-color: #007bff; // Example primary color variable
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #69a364;
+  color: #333;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+
+  section {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+
+    h2 {
+      font-size: 1.5em;
+      margin-bottom: 10px;
+    }
+  }
+}
+
+footer {
+  background-color: #343a40;
+  color: white;
+  padding: 10px 0;
+}
